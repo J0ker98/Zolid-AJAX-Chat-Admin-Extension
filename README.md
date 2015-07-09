@@ -11,7 +11,7 @@ This is an PHP + jQuery driven AJAX live chat or Shoutbox if you will. It comes 
 2. From the line 11 to the line 14 you have to insert your database informations.
 
 
-Using a login system for "admin.php" and "request.php" is hightly suggested because these files are the one that handles the database requests. If you do not know how to create a login system you can found one here: http://www.php-login.net/
+Using a login system for "admin.php" and "request.php" is hightly suggested because these files are the ones that handles the database requests. If you do not know how to create a login system you can find one here: http://www.php-login.net/
 
 The minimal version with some changes is enough to keep your database secure.
 
